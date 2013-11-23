@@ -1,0 +1,9 @@
+{
+  "name": "abs-svg-path",
+  "repo": "jkroso/abs-svg-path",
+  "description": "redefine an svg path with absolute coordinates",
+  "keywords": ["absolute","svg","path"],
+  "dependencies": {},
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
