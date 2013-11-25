@@ -1,6 +1,6 @@
 {
   "name": "abs-svg-path",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "redefine an svg path with absolute coordinates",
   "keywords": ["absolute","svg","path"],
   "dependencies": {},
