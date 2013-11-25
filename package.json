@@ -5,7 +5,10 @@
   "keywords": ["absolute","svg","path"],
   "dependencies": {},
   "devDependencies": {
-    "serve": "jkroso/serve#1.5.1",
+    "serve": "jkroso/serve",
+    "parse-svg-path": "*",
+    "mocha": "*",
+    "chai": "*",
     "jsmd": "*"
   },
   "repository": "git://github.com/jkroso/abs-svg-path.git",

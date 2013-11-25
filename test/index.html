@@ -1,0 +1,20 @@
+
+<title>abs-svg-path tests</title>
+<link rel="stylesheet" href="../node_modules/mocha/mocha.css">
+
+<div id="mocha"></div>
+
+<script>
+	var mocha = require('mocha')
+
+	mocha.setup({
+		reporter: 'html',
+		timeout: 200,
+		bail: true,
+		ui: 'bdd'
+	})
+
+	require('./abs.test')
+
+	mocha.run()
+</script>
