@@ -54,8 +54,8 @@ function absolutize(path){
 				y = seg[1]
 				break
 			case 'M':
-				x = startX = seg[0]
-				y = startY = seg[1]
+				x = startX = seg[1]
+				y = startY = seg[2]
 				break
 			default:
 				x = seg[seg.length - 2]
